@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Fiverr**
 
-- 🌱 I’m currently learning **Web 3.0, BlockChain**
+- 🌱 I’m currently learning **Vue,Web 3.0, BlockChain**
 
 - 💬 Ask me about **Laravel, Vue,**
 
