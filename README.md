@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/chhaseeb_218" target="blank"><img src="https://img.shields.io/twitter/follow/chhaseeb_218?logo=twitter&style=for-the-badge" alt="chhaseeb_218" /></a> </p>
 
-- 🔭 I’m currently working on **Fiverr**
+- 🔭 I’m currently working on **Laravel, Vue, Express**
 
 
 - 💬 Ask me about **Laravel, Vue,**
